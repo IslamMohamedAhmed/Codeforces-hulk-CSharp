@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\bin\Debug\net8.0\Hulk.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\bin\Debug\net8.0\Hulk.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\bin\Debug\net8.0\Hulk.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\bin\Debug\net8.0\Hulk.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\bin\Debug\net8.0\Hulk.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\obj\Debug\net8.0\Hulk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\obj\Debug\net8.0\Hulk.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\obj\Debug\net8.0\Hulk.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\obj\Debug\net8.0\Hulk.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\obj\Debug\net8.0\Hulk.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\obj\Debug\net8.0\refint\Hulk.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\obj\Debug\net8.0\Hulk.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\obj\Debug\net8.0\Hulk.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Hulk\Hulk\obj\Debug\net8.0\ref\Hulk.dll
